@@ -34,10 +34,10 @@ I am a **Java Full Stack Developer** passionate about building scalable web appl
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Darsh0002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Darsh0002&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh0002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh0002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
